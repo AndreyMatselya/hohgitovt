@@ -10,8 +10,6 @@ public class MyClass
 	public int Number7 { get; set; }
 	public int Number8 { get; set; }
 
-	public int Number7 { get; set; }
-
 	public int Number8 { get; set; }
 	public int Number8 { get; set; }
 	public int Number8 { get; set; }
